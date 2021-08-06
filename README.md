@@ -23,3 +23,13 @@ belief network where the features are the nodes, the target variable
 parent of each input feature. The Optimal Bayes classifier maximizes the 
 performance measure e(ˆf). We always use Bayes classifier as a benchmark
 to compare the performance of all other classifiers
+
+
+In probability theory, it relates the conditional probability and marginal
+probabilities of two random events. It is a way to calculate the value of 
+P(B|A) with the knowledge of P(A|B). Bayes' theorem allows updating the 
+probability prediction of an event by observing new information of the real world. 
+
+Let E_1,E_2,……E_n be n mutually exclusive and exhaustive events associated with a random experiment.
+If A is any event which occurs with E_1  or E_2  or……E_n , then
+P(E_i |A)=(P(E_i ).P(A|E_i))/(∑_(i=1)^n〖P(E_i ).P(A|E_i)〗)
