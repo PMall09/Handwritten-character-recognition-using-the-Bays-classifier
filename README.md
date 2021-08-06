@@ -1,4 +1,4 @@
-# Handwritten-character-recognition-using-the-Bay-s-classifier
+# Handwritten-character-recognition-using-the-Bay's-classifier
 Bay’s classifier is a classifier that minimizes a certain probabilistic 
 error measure. The bay’s error is then the error of bay’s classifier. 
 Bay’s classifier Performs probabilistic prediction and it is based on Bayes’ 
